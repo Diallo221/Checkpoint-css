@@ -1,0 +1,47 @@
+h1{
+    color: blue;
+}
+
+
+h2{
+    color: blue;
+}
+
+
+
+body{
+    background-color: pink;
+}
+
+
+
+P{
+    color: red;
+}
+
+
+
+ul{
+    list-style: none;
+}
+
+
+
+nav, ul, li{
+    display: inline;
+    margin: 2px;
+    margin-left: 125px;
+}
+
+nav, ul, li,a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.container{
+    display: inline;
+    border-radius: 150px;
+}
+
+
